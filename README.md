@@ -2,7 +2,7 @@
 ## CONTROLS:
 
 1 to toggle looped or timed.
-- Looped technically isn't a real loop, it'll fade after abotu 99999 ticks, but realistically its set that way due to how some of the particles are setup.
+- Looped technically isn't a real loop, it'll fade after about 99999 ticks, but realistically its set that way due to how some of the particles are setup.
 - Timed decays after a set time, dependent on the particle decaying particles may look slightly weird
 - Rain is only on loop, it does not work on timed
 - Lightning is only on timed, it does not work on loop.
